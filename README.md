@@ -4,6 +4,7 @@ Ce dépôt contient deux scripts Python permettant de tester et d’utiliser l'A
 
 - `mexc_test.py` — pour tester n'importe quel endpoint et afficher les réponses brutes.
 - `export_mexc_balances.py` — pour exporter les soldes du portefeuille Spot dans un fichier CSV.
+- `mexc_futures_assets.py` — pour récupérer et exporter les actifs du portefeuille Futures dans un fichier CSV.
 
 Ces scripts servent de base pour automatiser des opérations, analyser son portefeuille ou développer des outils autour de l'API MEXC.
 
